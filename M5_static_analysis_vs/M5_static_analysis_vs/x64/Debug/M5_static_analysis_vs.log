@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\brayc\OneDrive\Documents\SNHU\Courses\CS-405 Secure Coding\Repository\M5_static_analysis_vs\main.cpp(52,5): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+      C:\Users\brayc\OneDrive\Documents\SNHU\Courses\CS-405 Secure Coding\Repository\M5_static_analysis_vs\main.cpp(52,5):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+C:\Users\brayc\OneDrive\Documents\SNHU\Courses\CS-405 Secure Coding\Repository\M5_static_analysis_vs\main.cpp(129,3): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  M5_static_analysis_vs.vcxproj -> C:\Users\brayc\OneDrive\Documents\SNHU\Courses\CS-405 Secure Coding\Repository\M5_static_analysis_vs\x64\Debug\M5_static_analysis_vs.exe
